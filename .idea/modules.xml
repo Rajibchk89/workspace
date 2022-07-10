@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/python-intro.iml" filepath="$PROJECT_DIR$/.idea/python-intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Selenium-Intro-master/.idea/seleniumIntro.iml" filepath="$PROJECT_DIR$/../Selenium-Intro-master/.idea/seleniumIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shopping-kart/.idea/shopping-kart.iml" filepath="$PROJECT_DIR$/../shopping-kart/.idea/shopping-kart.iml" />
     </modules>
   </component>
 </project>
